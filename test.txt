@@ -1,0 +1,17 @@
+<div>
+<h3>About Us</h3>
+<p>
+Thick Brain Technologies provides quality training on AWS, Azure,
+GCP, DevOps, Python, Data Science and more.
+</p>
+</div>
+</div>
+
+<div class="footer-bottom">
+© 2025 ThickBrainTechnologies.com | Designed & Developed by Zinavo
+</div>
+</footer>
+
+</body>
+</html>
+
